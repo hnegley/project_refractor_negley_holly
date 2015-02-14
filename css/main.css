@@ -47,6 +47,8 @@ a:hover {
 #wrapper {
     background: #FFFFFF url(../img/img05.jpg) repeat;
     padding: 1em;
+    max-width: 1000px;
+    margin: auto;
 }
 
 .container {
@@ -480,6 +482,7 @@ a:hover {
 #banner {
     margin: 0px auto;
     background: url(../img/img03.png) no-repeat left bottom;
+    max-width: 1000px;
 }
 
 #banner .content img {
@@ -498,4 +501,13 @@ a:hover {
 }
 
 
-@media (min-width: ) {}
+@media (min-width: 850px ) {
+
+    #sidebar {
+ width: 30%;}
+
+    #content {
+    width: 70%;
+}
+}
+
