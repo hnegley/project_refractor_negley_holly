@@ -304,10 +304,11 @@ a {
 @media (min-width: 850px ) {
 
     #sidebar {
- width: 30%;}
+        width: 30%;
+    }
 
     #content {
-    width: 70%;
-}
+        width: 70%;
+    }
 }
 
