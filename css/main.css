@@ -286,6 +286,12 @@ a {
     width: 100%;
 }
 
+@media (min-width: 550px ) {
+    #menu li {
+        display: inline-block;
+    }
+}
+
 @media (min-width: 700px ) {
     #logo {
         float: left;
