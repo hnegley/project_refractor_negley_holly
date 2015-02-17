@@ -86,24 +86,16 @@ a {
 }
 
 /* Menu */
-
-#menu {
-}
-
 #menu ul {
     margin: 0;
-    padding: 20px 0px 0px 0px;
+    padding: 0px;
     list-style: none;
     line-height: normal;
 }
 
-#menu li {
-    display: inline-block;
-    }
-
 #menu a {
     display: block;
-    line-height: 100px;
+    line-height: 50px;
     margin-right: 1px;
     padding: 0px 20px 0px 20px;
     text-decoration: none;
