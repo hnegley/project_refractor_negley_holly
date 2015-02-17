@@ -300,6 +300,9 @@ a {
     #menu {
         float: right;
     }
+    #menu a {
+        line-height: 100px;
+    }
 }
 
 @media (min-width: 850px ) {
