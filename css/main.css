@@ -480,16 +480,9 @@ a:hover {
     color: #FFFFFF;
 }
 
-#banner {
-    margin: 0px auto;
-    background: url(../img/img03.png) no-repeat left bottom;
-    max-width: 1000px;
-}
-
-#banner img {
+.banner-img {
     width: 100%;
 }
-
 
 .list-style1 {
     margin: 0px;
